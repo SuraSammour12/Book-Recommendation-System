@@ -9,11 +9,12 @@ User input (e.g., genre preferences, book queries).
 
 
 **Processes:**
-Data cleaning and preprocessing of the Goodbooks-10k dataset.
 
-Generation of book embeddings using SentenceTransformer.
+→ Data cleaning and preprocessing of the Goodbooks-10k dataset.
 
-Recommendations are generated using FAISS for efficient retrieval and filtering by genre.
+→ Generation of book embeddings using SentenceTransformer.
+
+→ Recommendations are generated using FAISS for efficient retrieval and filtering by genre.
 
 
 **Output:**
