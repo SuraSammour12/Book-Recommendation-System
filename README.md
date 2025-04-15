@@ -1,4 +1,4 @@
-**Project Name:** Book Recommendation System 📚👌🤖 
+**Project Name:** Book Recommendation System 📕👌🤖 
 
 **Objective:**
 Develop a personalized book recommendation system based on user preferences.
